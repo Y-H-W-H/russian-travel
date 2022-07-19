@@ -5,10 +5,10 @@
   margin: 0;
 }
 
-@media screen and (min-width: 547px) and (max-width: 719px) {
+@media screen and (min-width: 547px) and (max-width: 768px) {
   .places__title {
     width: max-content;
-    font-size: 62px;
+    font-size: 42px;
   }
 }
 

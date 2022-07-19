@@ -9,11 +9,3 @@
   transition: opacity 2s linear;
 
 }
-
-
-@media screen and (max-width: 579px) {
-  .footer__link {
-    margin-bottom: 13px;
-  }
-
-}
