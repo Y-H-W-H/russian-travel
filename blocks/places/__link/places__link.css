@@ -1,0 +1,10 @@
+.places__link {
+  color: #FFFFFF;
+}
+
+.places__link:hover,
+.places__link:focus {
+
+  color: rgb(154, 196, 95);
+
+}

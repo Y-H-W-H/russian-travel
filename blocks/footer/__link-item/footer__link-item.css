@@ -1,0 +1,15 @@
+.footer__link-item {
+  display: inline;
+  margin-right: 18px;
+}
+
+
+
+
+
+@media screen and (max-width: 535px) {
+
+  .footer__link-item {
+    margin-bottom: 11px;
+  }
+}

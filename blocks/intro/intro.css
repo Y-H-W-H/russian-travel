@@ -1,0 +1,7 @@
+/* никак не могу делать одинаковы отступы с lead */
+.intro {
+  margin: 68px auto 0;
+  font-weight: 200;
+  max-width: 984px;
+  padding: 0;
+}

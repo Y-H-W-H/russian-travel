@@ -1,0 +1,9 @@
+.places__image {
+  width: 100%;
+
+  justify-self: center;
+  align-self: flex-start;
+  object-fit: cover;
+  background-position: center;
+
+}

@@ -1,0 +1,19 @@
+.header__lang-link {
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+}
+
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: opacity, font-size 0.4s, 0.2s linear;
+  font-size: 26px;
+}
+
+.header__lang-link:nth-last-of-type() {
+  text-decoration: none;
+}
