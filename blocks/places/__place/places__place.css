@@ -5,13 +5,21 @@
 
   grid-column-gap: 40px;
   grid-row-gap: 48px;
-  height: fit-content;
+  height: min-content;
   max-width: 984px;
   margin: 0;
   width: 100%;
   padding: 0;
 }
 
+@media screen and (min-width: 720px) and (max-width: 768px) {
+  .places__place {
+    margin: 0;
+    height: min-content;
+
+
+  }
+}
 
 @media screen and (max-width: 719px) {
   .places__place {
@@ -24,6 +32,7 @@
 @media screen and (max-width: 320px) {
   .places__place {
     grid-row-gap: 32px;
+
 
 
   }

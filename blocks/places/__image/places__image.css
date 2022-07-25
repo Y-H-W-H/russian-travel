@@ -8,11 +8,17 @@
 
 }
 
+
+/* Не понимаю, как сделать картинку за рамками контейнера
+без отрицательных margin 
+и width: 100vw; */
 @media screen and (max-width: 320px) {
   .places__image {
-    margin: -16px;
-    width: 100vw;
+
+    /* width: 100vw;
+    margin: 0 -16px 0; */
+
   }
 
-
+  /*  */
 }
