@@ -4,7 +4,9 @@
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
-  margin-right: 18px;
+  margin-top: 0;
+
+
 }
 
 
@@ -13,5 +15,6 @@
   .footer__links {
 
     flex-direction: column;
+    margin-bottom: 16px;
   }
 }
